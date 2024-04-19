@@ -1,7 +1,7 @@
 # Example README.md for `.github/profile` for UKAEA Organisation page
 
 ## UDA
-![text](assets/uda.svg)
+<img src="assets/uda.svg" alt="udalogo" width="200"/>
 
 | Repository | GitHub Link    | Documentation    |
 | :---:      | :---:          | :---:            |
